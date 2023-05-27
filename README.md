@@ -1,2 +1,2 @@
 # Practicum.Yandex_DA
-Data analysis projects
+Data analysis projects completed as part of the "Data Analyst +" course
