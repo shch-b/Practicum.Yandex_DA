@@ -4,6 +4,7 @@ Data analysis projects completed as part of the "Data Analyst +" course
 
 Список учебных проектов, выполненных в рамках курса "Аналитик данных +" от Яндекс.Практикум. *В каждом проекте присутствуют комментарии ревьювера и отметка об успешной сдаче и выполнении проекта*
 
+## Training projects
 
 | Название проекта / Project Name     | Описание / Description                       | Библиотеки / Libraries                      |
 | :---------------------------------- | :------------------------------------------- |:--------------------------------------------|
@@ -16,7 +17,13 @@ Data analysis projects completed as part of the "Data Analyst +" course
 |[7. Исследование уровня потребительской лояльности](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/7%20NPS) | Анализ результатов опроса, оценивающего потребительскую лояльность. Создание дашборда с описанием результатов анализа| `Tableau` `pandas` `dash` `sqlalchemy`|
 |[8. Исследование маркетинговой кампании](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/8%20Marketing%20Campaign%20Research) | Анализ данных о пользователеях, их покупках и затратах на их привлечение с целью оценки эффективности и окупаемости принятой маркетинговой стратегии, выявления причин её возможной неэффективности и описания факторов, влияющих на убытки компании| `pandas` `seaborn` `matplotlib` `numpy` `plotly` |
 |[9. Продвинутый SQL](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/9%20StackOverFLow%20(Advanced%20SQL)) | Запросы SQL к базе данных StackOverFlow| `pandas` `seaborn` `matplotlib` `SQLAlchemy`|
-|[10. Анализ целевой аудитории ресурса Wikipedia](https://) | Выявление на основании статистических данных о пользователях ресурса Wikipedia и сведениях об их голосовании различных сегментов и их предпочтений| `pandas` `seaborn` `matplotlib` `re` `numpy` `sklearn` `pyvis`|
+
+
+## Independent projects
+
+| Название проекта / Project Name     | Описание / Description                       | Библиотеки / Libraries                      |
+| :---------------------------------- | :------------------------------------------- |:--------------------------------------------|
+|[10. Анализ целевой аудитории ресурса Wikipedia](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/10%20Wikipedia%20(workshop)) | Выявление на основании статистических данных о пользователях ресурса Wikipedia и сведениях об их голосовании различных сегментов и их предпочтений| `pandas` `seaborn` `matplotlib` `re` `numpy` `sklearn` `pyvis`|
 
 
 
