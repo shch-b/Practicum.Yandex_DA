@@ -17,6 +17,11 @@ Data analysis projects completed as part of the "Data Analyst +" course
 |[7. Исследование уровня потребительской лояльности](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/7%20NPS) | Анализ результатов опроса, оценивающего потребительскую лояльность. Создание дашборда с описанием результатов анализа| `Tableau` `pandas` `dash` `sqlalchemy`|
 |[8. Исследование маркетинговой кампании](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/8%20Marketing%20Campaign%20Research) | Анализ данных о пользователеях, их покупках и затратах на их привлечение с целью оценки эффективности и окупаемости принятой маркетинговой стратегии, выявления причин её возможной неэффективности и описания факторов, влияющих на убытки компании| `pandas` `seaborn` `matplotlib` `numpy` `plotly` |
 |[9. Продвинутый SQL](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/9%20StackOverFLow%20(Advanced%20SQL)) | Запросы SQL к базе данных StackOverFlow| `pandas` `seaborn` `matplotlib` `SQLAlchemy`|
+|[11. Анализ тарифов](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/11%20Tariff%20analysis) | Выбор оптимального тарифа| `pandas` `seaborn` `matplotlib` `scipy.stats`|
+|[12. Принятие решения в бизнесе](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/12%20Business%20desicion%20making) | Приоритезация гипотез и анализ результатов А/В тестирования| `pandas` `seaborn` `matplotlib` `scipy.stats`|
+|[13. Прогноз оттока клиентов](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/13%20ML) | Прогнозирование вероятности оттока (на уровне следующего месяца) для каждого клиента, формирование типичных портретов клиентов| `pandas` `seaborn` `matplotlib` `scipy.stats` `sklearn` `time` `itertools`|
+|[14. Анализ игровой индустрии](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/14%20Gaming) | Выявление закономерностей, определяющих успешность игр| `pandas` `seaborn` `matplotlib` `scipy`|
+|[15. Выпускной проект](https://github.com/shch-b/Practicum.Yandex_DA/tree/main/15%20Graduation%20project) | Выпускной проект, А/В тестирование, SQL| `pandas` `seaborn` `matplotlib` `scipy` `SQLAlchemy` `sklearn` `plotly` `Tableau`|
 
 
 ## Independent projects
