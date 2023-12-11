@@ -39,3 +39,6 @@ Promo_friends — факт первоначальной записи в рамк
 
 ## Используемые библиотеки
 pandas, seaborn, matplotlib, scipy.stats, sklearn, time, itertools
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation, statistical analysis, machine learning, A/B testing
