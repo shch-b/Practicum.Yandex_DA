@@ -17,3 +17,6 @@
 
 ## Используемые бибилиотеки
 pandas, seaborn, matplotlib, SQLAlchemy
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation, SQL
