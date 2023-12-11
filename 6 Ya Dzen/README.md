@@ -16,3 +16,5 @@
   ## Используемые бибилиотеки (стек)
   Tableau, pandas, dash, sqlalchemy
 
+## tags
+data preprocessing, exploratory data analysis, data visualisation, Tableau
