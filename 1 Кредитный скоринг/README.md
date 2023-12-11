@@ -21,3 +21,6 @@
 
 ## Используемые библиотеки
 pandas, seaborn
+
+## tags
+data preprocessing, exploratory data analysis
