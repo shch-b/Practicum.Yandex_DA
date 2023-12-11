@@ -32,4 +32,7 @@
 ## Используемые библиотеки
 Tableau, pandas, dash, sqlalchemy
 
+## tags
+data preprocessing, data visualisation, SQL, Tableau
+
  
