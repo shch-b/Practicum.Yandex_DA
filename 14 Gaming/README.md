@@ -19,3 +19,6 @@
 
 ## Используемые библиотеки
 pandas, seaborn, matplotlib, scipy
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation, statistical analysis, A/B testing
