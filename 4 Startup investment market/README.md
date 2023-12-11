@@ -16,3 +16,6 @@
 
 ## Используемые библиотеки (стек)
 SQL
+
+## tags
+exploratory data analysis, SQL
