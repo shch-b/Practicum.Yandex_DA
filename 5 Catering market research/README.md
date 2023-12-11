@@ -23,3 +23,6 @@
 
 ## Используемые библиотеки
 pandas, matplotlib, seaborn, plotly, folium
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation
