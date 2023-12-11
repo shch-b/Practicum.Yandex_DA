@@ -13,3 +13,6 @@
 
 ## Используемые библиотеки
 pandas, seaborn, matplotlib, scipy.stats
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation, statistical analysis
