@@ -34,3 +34,6 @@
 
 ## Используемые библиотеки
 pandas, matplotlib, seaborn
+
+## tags
+data preprocessing, exploratory data analysis, data visualisation
